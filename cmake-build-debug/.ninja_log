@@ -1,0 +1,8 @@
+# ninja log v6
+3	779	1734451634063080006	CMakeFiles/2dgameengine.dir/libs/imgui/imgui_demo.cpp.o	1b2d85335ea910ad
+6	619	1734652826258305781	CMakeFiles/2dgameengine.dir/src/Logger/Logger.cpp.o	12c326f51562a15a
+3	1213	1734451634064080068	CMakeFiles/2dgameengine.dir/libs/imgui/imgui_draw.cpp.o	52940efb5c010ca0
+3	1557	1734451634063080006	CMakeFiles/2dgameengine.dir/libs/imgui/imgui.cpp.o	4d51e4212ed1d0c5
+4	1630	1734451634064080068	CMakeFiles/2dgameengine.dir/libs/imgui/imgui_widgets.cpp.o	6ffcf3a2bf2bbe9b
+4	2029	1734451634064080068	CMakeFiles/2dgameengine.dir/libs/imgui/imgui_sdl.cpp.o	781c3913705ca87
+6	618	1734652826258305781	CMakeFiles/2dgameengine.dir/src/Main.cpp.o	776c13803e7d27db

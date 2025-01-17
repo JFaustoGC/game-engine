@@ -1,0 +1,3 @@
+/home/fausto/2dgameengine/2dgameengine/cmake-build-debug/CMakeFiles/2dgameengine.dir
+/home/fausto/2dgameengine/2dgameengine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fausto/2dgameengine/2dgameengine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
