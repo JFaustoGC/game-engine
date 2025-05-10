@@ -3,13 +3,17 @@
 
 
 struct SpriteComponent {
+    std::string assetId;
     int width;
     int height;
+    SDL_Rect srcRect{};
 
-    SpriteComponent(int width = 0, int height = 0)
-    {
+    explicit SpriteComponent(const std::string &assetId = "", const int width = 0, const int height = 0,
+                             const int srcRectX = 0, const int srcRectY = 0) {
+        this->assetId = assetId;
         this->width = width;
         this->height = height;
+        this->srcRect = {srcRectX, srcRectY, width, height};
     }
 };
 
